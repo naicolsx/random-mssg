@@ -1,0 +1,27 @@
+{
+  "name": "random-mssg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naicolsx/random-mssg.git"
+  },
+  "keywords": [],
+  "author": "Natalia <naicolsx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naicolsx/random-mssg/issues"
+  },
+  "homepage": "https://github.com/naicolsx/random-mssg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
